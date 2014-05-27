@@ -13,4 +13,4 @@ MyAllTypesSecond objects are compared and unique objects of both types are repor
 class, serializeObject() method takes a Java object and serializes it using the serialization 
 protocol shown in MyAllTypes text file. All objects created by parsing the MyAllTypes text file 
 are serialized and then stored in a new text file MyAllTypesCopy. Running a diff between 
-MyAllTypes and MyAllTypesCopy text files did not showed any difference. 
+MyAllTypes and MyAllTypesCopy text files does not show any difference. 
